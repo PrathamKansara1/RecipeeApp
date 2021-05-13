@@ -79,12 +79,7 @@ img{
     top: -0.5rem;
     right: -0.5rem;
     font-size: 1.2rem;
-    opacity: 0;
     cursor: pointer;
-}
-
-.fav-meals li:hover .close{
-    opacity: 1;
 }
 
 .fav-meals li img{
